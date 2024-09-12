@@ -1,0 +1,35 @@
+{
+	"name": "flat-gooi-material",
+	"displayName": "Flat GOOI Material",
+	"description": "Modified version of the dark Flat UI Material theme by Muhammad Sammy and Kaiyuan Liu.",
+	"publisher": "ilyag88",
+	"license": "CC-BY-NC-SA-4.0",
+	"version": "1.0.0",
+    "icon": "icon.png",
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Flat GOOI Material",
+				"uiTheme": "vs-dark",
+				"path": "./themes/flat-gooi-material.json"
+			}
+		]
+	},
+    "repository": {
+		"url": "https://github.com/ilyag88/flat-gooi-material",
+		"type": "git"
+	},
+	"keywords": [
+        "dark",
+		"theme",
+		"flat",
+		"gooi",
+		"material"
+	]
+}
