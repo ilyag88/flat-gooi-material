@@ -15,9 +15,12 @@
 		"breadcrumb.focusForeground": "#929292",
 		"breadcrumb.foreground": "#92929280",
 		"breadcrumbPicker.background": "#181818",
-		"button.foreground": "#929292",
+		"button.foreground": "#c3c3c3",
 		"button.background": "#92929240",
-		"button.hoverBackground": "#58a9c140",
+		"button.hoverBackground": "#58a9c180",
+		"button.secondaryForeground": "#c3c3c3",
+		"button.secondaryBackground": "#92929240",
+		"button.secondaryHoverBackground": "#58a9c180",
 		"debugToolBar.background": "#181818",
 		"diffEditor.insertedTextBackground": "#c3e88d15",
 		"diffEditor.removedTextBackground": "#ff537020",
@@ -194,6 +197,12 @@
 				"foreground": "#05ad97"
 			}
 		},
+        {
+            "scope": "variable.parameter",
+            "settings": {
+                "foreground": "#929292"
+            }
+        },
 		{
 			"scope": "variable.parameter.function",
 			"settings": {
