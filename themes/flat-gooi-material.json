@@ -17,10 +17,10 @@
 		"breadcrumbPicker.background": "#181818",
 		"button.foreground": "#c3c3c3",
 		"button.background": "#92929240",
-		"button.hoverBackground": "#58a9c180",
+		"button.hoverBackground": "#92929280",
 		"button.secondaryForeground": "#c3c3c3",
 		"button.secondaryBackground": "#92929240",
-		"button.secondaryHoverBackground": "#58a9c180",
+		"button.secondaryHoverBackground": "#92929280",
 		"debugToolBar.background": "#181818",
 		"diffEditor.insertedTextBackground": "#c3e88d15",
 		"diffEditor.removedTextBackground": "#ff537020",
@@ -30,7 +30,8 @@
 		"editor.foreground": "#929292",
 		"editor.lineHighlightBackground": "#00000080",
 		"editor.selectionBackground": "#92929240",
-		"editor.selectionHighlightBackground": "#ffcc0020",
+		"editor.selectionHighlightBackground": "#92929240",
+		"editor.wordHighlightTextBackground": "#ffcc0028",
 		"editorBracketMatch.background": "#181818",
 		"editorBracketMatch.border": "#ffcc0050",
 		"editorCursor.foreground": "#ffcc00",
@@ -179,7 +180,7 @@
 		"textLink.foreground": "#58a9c1",
 		"titleBar.activeBackground": "#181818",
 		"titleBar.activeForeground": "#929292",
-		"titleBar.border": "#92929220",
+		"titleBar.border": "#92929200",
 		"titleBar.inactiveBackground": "#181818",
 		"titleBar.inactiveForeground": "#92929280",
 		"widget.shadow": "#00000080"
@@ -236,7 +237,7 @@
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#05ad97"
+				"foreground": "#929292"
 			}
 		},
 		{
