@@ -4,7 +4,7 @@
 	"description": "Modified version of the dark Flat UI Material theme by Muhammad Sammy and Kaiyuan Liu.",
 	"publisher": "ilyag88",
 	"license": "CC-BY-NC-SA-4.0",
-	"version": "1.1.0",
+	"version": "1.2.0",
     "icon": "icon.png",
 	"engines": {
 		"vscode": "^1.20.0"
