@@ -245,6 +245,48 @@
 			}
 		},
 		{
+			"scope": "heading.1.markdown",
+			"settings": {
+				"foreground": "#d19a66",
+				"fontStyle": "bold underline"
+			}
+		},
+		{
+			"scope": "heading.2.markdown",
+			"settings": {
+				"foreground": "#b06cc5",
+				"fontStyle": "bold underline"
+			}
+		},
+		{
+			"scope": "heading.3.markdown",
+			"settings": {
+				"foreground": "#4da2ad",
+				"fontStyle": "bold underline"
+			}
+		},
+		{
+			"scope": "heading.4.markdown",
+			"settings": {
+				"foreground": "#d2656e",
+				"fontStyle": "bold underline"
+			}
+		},
+		{
+			"scope": "heading.5.markdown",
+			"settings": {
+				"foreground": "#05ad97",
+				"fontStyle": "bold underline"
+			}
+		},
+		{
+			"scope": "heading.6.markdown",
+			"settings": {
+				"foreground": "#3193c6",
+				"fontStyle": "bold underline"
+			}
+		},
+		{
 			"scope": "keyword",
 			"settings": {
 				"foreground": "#b06cc5" //c678dd
@@ -268,13 +310,13 @@
 				"foreground": "#d2656e"
 			}
 		},
-        {
-            "scope": "markup.bold",
-            "settings": {
-                "foreground": "#c3c3c3",
-                "fontStyle": "bold"
-            }
-        },
+		{
+			"scope": "markup.bold",
+			"settings": {
+				"foreground": "#c3c3c3",
+				"fontStyle": "bold"
+			}
+		},
 		{
 			"scope": "markup.fenced_code.block.markdown",
 			"settings": {
@@ -282,35 +324,28 @@
 			}
 		},
 		{
-			"scope": "markup.heading",
+			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#d19a66",
-                "fontStyle": "bold underline"
-			}
-		},
-        {
-            "scope": "markup.inline.raw",
-            "settings": {
-                "foreground": "#c3c3c3"
-            }
-        },
-		{
-            "scope": "markup.italic",
-			"settings": {
-                "foreground": "#c3c3c3",
-                "fontStyle": "italic"
+				"foreground": "#c3c3c3"
 			}
 		},
 		{
-            "scope": "markup.math.block.markdown",
+			"scope": "markup.italic",
 			"settings": {
-                "foreground": "#4da2ad",
+				"foreground": "#c3c3c3",
+				"fontStyle": "italic"
 			}
 		},
 		{
-            "scope": "markup.math.inline.markdown",
+			"scope": "markup.math.block.markdown",
 			"settings": {
-                "foreground": "#c3c3c3",
+				"foreground": "#4da2ad",
+			}
+		},
+		{
+			"scope": "markup.math.inline.markdown",
+			"settings": {
+				"foreground": "#c3c3c3",
 			}
 		},
 		{
@@ -341,7 +376,7 @@
 			"scope": "meta.link.inline.markdown",
 			"settings": {
 				"foreground": "#3193c6",
-                "fontStyle": "underline"
+				"fontStyle": "underline"
 			}
 		},
 		{
@@ -350,7 +385,7 @@
 				"foreground": "#616161"
 			}
 		},
-        {
+		{
 			"scope": "storage",
 			"settings": {
 				"foreground": "#b06cc5"
@@ -387,35 +422,35 @@
 			}
 		},
 		{
-            "scope": "support.type.property-name",
+			"scope": "support.type.property-name",
 			"settings": {
-                "foreground": "#929292"
+				"foreground": "#929292"
 			}
 		},
-        {
-            "scope": "support.type.python",
-            "settings": {
-                "foreground": "#4da2ad"
-            }
-        },
-        {
-            "scope": "support.type.exception.python",
-            "settings": {
-                "foreground": "#929292"
-            }
-        },
 		{
-            "scope": "support.variable.magic.python",
+			"scope": "support.type.python",
 			"settings": {
-                "foreground": "#3193c6"
+				"foreground": "#4da2ad"
 			}
 		},
-        {
-            "scope": "variable.language.special.self.python",
-            "settings": {
-                "foreground": "#d5b272"
-            }
-        },
+		{
+			"scope": "support.type.exception.python",
+			"settings": {
+				"foreground": "#929292"
+			}
+		},
+		{
+			"scope": "support.variable.magic.python",
+			"settings": {
+				"foreground": "#3193c6"
+			}
+		},
+		{
+			"scope": "variable.language.special.self.python",
+			"settings": {
+				"foreground": "#d5b272"
+			}
+		},
 		{
 			"scope": "variable.parameter.function",
 			"settings": {
