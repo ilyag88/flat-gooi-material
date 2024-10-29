@@ -155,7 +155,7 @@
 		"statusBar.background": "#181818",
 		"statusBar.border": "#92929200",
 		"statusBar.focusBorder": "#92929200",
-		"statusBar.debuggingBackground": "#c792ea",
+		"statusBar.debuggingBackground": "#7753a8c0",
 		"statusBar.debuggingForeground": "#929292",
 		"statusBar.foreground": "#92929280",
 		"statusBar.noFolderBackground": "#181818",
@@ -194,6 +194,8 @@
 		"titleBar.border": "#92929200",
 		"titleBar.inactiveBackground": "#181818",
 		"titleBar.inactiveForeground": "#92929280",
+        "tree.indentGuidesStroke": "#92929240",
+        "tree.inactiveIndentGuidesStroke": "#92929220",
 		"widget.shadow": "#00000080"
 	},
 	"tokenColors": [
