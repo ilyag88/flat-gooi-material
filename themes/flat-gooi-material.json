@@ -234,7 +234,7 @@
 		{
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#d5b272" //e5c07b
+				"foreground": "#d5b272"
 			}
 		},
 		{
@@ -246,7 +246,7 @@
 		{
 			"scope": "entity.name.function.support",
 			"settings": {
-				"foreground": "#4da2ad" //56b6c2
+				"foreground": "#4da2ad"
 			}
 		},
 		{
@@ -323,6 +323,12 @@
 			}
 		},
 		{
+			"scope": "markup.deleted.diff",
+			"settings": {
+				"foreground": "#d2656e",
+			}
+		},
+		{
 			"scope": "markup.fenced_code.block.markdown",
 			"settings": {
 				"foreground": "#616161",
@@ -332,6 +338,12 @@
 			"scope": "markup.inline.raw",
 			"settings": {
 				"foreground": "#c3c3c3"
+			}
+		},
+		{
+			"scope": "markup.inserted.diff",
+			"settings": {
+				"foreground": "#05ad97",
 			}
 		},
 		{
@@ -357,6 +369,36 @@
 			"scope": "markup.quote",
 			"settings": {
 				"foreground": "#b06cc5"
+			}
+		},
+		{
+			"scope": "meta.diff.header.git",
+			"settings": {
+				"foreground": "#c3c3c3"
+			}
+		},
+		{
+			"scope": "meta.diff.header.from-file",
+			"settings": {
+				"foreground": "#d2656e"
+			}
+		},
+		{
+			"scope": "meta.diff.header.to-file",
+			"settings": {
+				"foreground": "#05ad97"
+			}
+		},
+		{
+			"scope": "meta.diff.index.git",
+			"settings": {
+				"foreground": "#c3c3c3"
+			}
+		},
+		{
+			"scope": "meta.diff.range.unified",
+			"settings": {
+				"foreground": "#d5b272"
 			}
 		},
 		{
