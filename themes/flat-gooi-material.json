@@ -294,13 +294,19 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#b06cc5" //c678dd
+				"foreground": "#b06cc5"
+			}
+		},
+		{
+			"scope": "keyword.codetag.notation.python",
+			"settings": {
+				"foreground": "#c3c3c3"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#d2656e" //e06c75
+				"foreground": "#d2656e"
 			}
 		},
 		{
