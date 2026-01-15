@@ -445,7 +445,7 @@
 			}
 		},
 		{
-			"scope": "punctuation.definition.variable.shell",
+			"scope": "punctuation.definition.variable",
 			"settings": {
 				"foreground": "#d5b272"
 			}
@@ -544,6 +544,18 @@
 			"scope": "variable.other.normal.shell",
 			"settings": {
 				"foreground": "#d5b272"
+			}
+		},
+		{
+			"scope": "variable.other.readwrite.batchfile",
+			"settings": {
+				"foreground": "#d5b272"
+			}
+		},
+		{
+			"scope": "variable.parameter.batchfile",
+			"settings": {
+				"foreground": "#d18c66"
 			}
 		},
 		{
