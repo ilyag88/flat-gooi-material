@@ -273,7 +273,7 @@
 		{
 			"scope": "heading.4.markdown",
 			"settings": {
-				"foreground": "#f2758e",
+				"foreground": "#f2757e",
 				"fontStyle": "bold underline"
 			}
 		},
@@ -306,7 +306,7 @@
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#f2758e"
+				"foreground": "#f2757e"
 			}
 		},
 		{
@@ -318,7 +318,7 @@
 		{
 			"scope": "keyword.operator.logical.python",
 			"settings": {
-				"foreground": "#f2758e"
+				"foreground": "#f2757e"
 			}
 		},
 		{
@@ -331,7 +331,7 @@
 		{
 			"scope": "markup.deleted.diff",
 			"settings": {
-				"foreground": "#f2758e",
+				"foreground": "#f2757e",
 			}
 		},
 		{
@@ -386,7 +386,7 @@
 		{
 			"scope": "meta.diff.header.from-file",
 			"settings": {
-				"foreground": "#f2758e"
+				"foreground": "#f2757e"
 			}
 		},
 		{
